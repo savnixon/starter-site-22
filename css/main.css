@@ -2,9 +2,10 @@
 body {
     background-color: red;
     font-family:'Courier New', Courier, monospace
-    text-shadow 3x 3px 7px black;
     font-size: 7rem;
     text-align: center;
+    line-height: 1.4em;
+    
     
 }
 p {
