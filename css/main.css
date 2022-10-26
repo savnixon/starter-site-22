@@ -1,8 +1,7 @@
 /* Place CSS styles here */
-background-color {
+body {
     background-color: red;
 }
-
 p {
     text-emphasis-color: red;
 }
