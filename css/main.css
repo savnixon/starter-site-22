@@ -1,10 +1,5 @@
 /* Place CSS styles here */
-body {
-    background-color: black;
-}
-h1 {
+
+p {
     text-emphasis-color: red;
-}
-body {
-    text-decoration-color: red;
 }
