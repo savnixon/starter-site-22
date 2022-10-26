@@ -1,10 +1,10 @@
 /* Place CSS styles here */
 body {
     background-color: red;
-    font-family:'Courier New', Courier, monospace
     font-size: 7rem;
-    text-align: center;
+    font-family:'Courier New', Courier, monospace
     line-height: 1.4em;
+    
     
     
 }
