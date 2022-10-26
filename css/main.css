@@ -1,9 +1,11 @@
 /* Place CSS styles here */
 body {
     background-color: red;
+    font-weight: 700;
     line-height: 1.4;
     font-size: 7rem;
     font-family:'Courier New', Courier, monospace
+    
        
 }
 p {
