@@ -2,6 +2,9 @@
 body {
     background-color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3x 3px 7px black;
+    font-size: 3rem;
+    
 }
 p {
     text-emphasis-color: red;
