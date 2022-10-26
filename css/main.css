@@ -5,3 +5,6 @@ body {
 h1 {
     text-emphasis-color: red;
 }
+body {
+    text-decoration-color: red;
+}
